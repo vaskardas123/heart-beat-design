@@ -203,7 +203,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FTQfotY6-JqzFOz6IiXC" name="Session Log Dashboard">
-    <mxGraphModel dx="947" dy="479" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,29 +222,41 @@
         <mxCell id="YGGiWuXfOsDT7Zcj4hT9-8" value="&lt;br&gt;Failed Login&amp;nbsp;&lt;br&gt;Attempts&lt;br&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 102, 204); font-size: 25px;&quot;&gt;680&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=light-dark(#f2f2f2, #ededed);gradientDirection=north;glass=0;shadow=1;fontSize=15;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="424" y="140" width="179" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-9" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.failed;" vertex="1" parent="1">
+        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-9" value="" style="shadow=1;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.failed;" vertex="1" parent="1">
           <mxGeometry x="432" y="149" width="36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="49" y="152" width="32" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-13" value="" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=clock;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-13" value="" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=clock;fillColor=#FAFAFA;strokeColor=#005073;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="242" y="150" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/web/API_Center.svg;" vertex="1" parent="1">
+        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/web/API_Center.svg;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="146" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="YGGiWuXfOsDT7Zcj4hT9-15" value="Active Users&lt;br&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 102, 204); font-size: 25px;&quot;&gt;53&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=light-dark(#f2f2f2, #ededed);gradientDirection=north;glass=0;shadow=1;fontSize=15;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="41" y="326" width="179" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-17" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.user;" vertex="1" parent="1">
+        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-17" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.user;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="49" y="341" width="35" height="36" as="geometry" />
         </mxCell>
         <mxCell id="YGGiWuXfOsDT7Zcj4hT9-18" value="&lt;font&gt;&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;Average &lt;br&gt;Session Duration&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;38 Min&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=light-dark(#f2f2f2, #ededed);gradientDirection=north;glass=0;shadow=1;fontSize=15;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="239" y="326" width="179" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-21" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.backup_recovery_time_objective;" vertex="1" parent="1">
+        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-21" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.backup_recovery_time_objective;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="333" width="45.76" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Uy1qEyqynV1C6eJLJxLA-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;Session Volume&lt;br&gt;Over Time&lt;br&gt;&lt;/b&gt;&lt;code data-end=&quot;1913&quot; data-start=&quot;1902&quot;&gt;LoginTime&lt;/code&gt;, &lt;code data-end=&quot;1927&quot; data-start=&quot;1915&quot;&gt;LogoutTime&lt;/code&gt;, &lt;code data-end=&quot;1942&quot; data-start=&quot;1929&quot;&gt;LoginStatus&lt;/code&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;gradientColor=light-dark(#0066CC,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="21.5" y="510.5" width="379" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="Uy1qEyqynV1C6eJLJxLA-4" value="" style="verticalLabelPosition=bottom;shadow=1;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="34.5" y="525.5" width="73" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Uy1qEyqynV1C6eJLJxLA-9" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;strong data-end=&quot;1901&quot; data-start=&quot;1890&quot;&gt;Average Session Duration&lt;br&gt;&amp;nbsp;Over TIme&lt;br&gt;&lt;/strong&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;code style=&quot;&quot; data-end=&quot;2054&quot; data-start=&quot;2037&quot;&gt;SessionDuration&lt;/code&gt;, grouped by date&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;gradientColor=light-dark(#0066CC,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="425" y="514" width="379" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="Uy1qEyqynV1C6eJLJxLA-10" value="" style="verticalLabelPosition=bottom;shadow=1;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="438" y="529" width="73" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
