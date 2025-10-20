@@ -243,8 +243,8 @@
         <mxCell id="YGGiWuXfOsDT7Zcj4hT9-18" value="&lt;font&gt;&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;Average &lt;br&gt;Session Duration&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;38 Min&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=light-dark(#f2f2f2, #ededed);gradientDirection=north;glass=0;shadow=1;fontSize=15;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="239" y="326" width="179" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-20" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.session_border_controller;" vertex="1" parent="1">
-          <mxGeometry x="249" y="332" width="51" height="45" as="geometry" />
+        <mxCell id="YGGiWuXfOsDT7Zcj4hT9-21" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.backup_recovery_time_objective;" vertex="1" parent="1">
+          <mxGeometry x="246" y="333" width="45.76" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
