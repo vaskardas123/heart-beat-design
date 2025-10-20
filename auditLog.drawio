@@ -14,7 +14,7 @@
           <mxGeometry x="28" y="570" width="385" height="198" as="geometry" />
         </mxCell>
         <mxCell id="Aea7daFOpwfqS7LJveI--13" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;Exception Trend&lt;br&gt;Line or stacked area showing count of failed logs over time.&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;gradientColor=light-dark(#0066CC,#FFFFFF);" parent="1" vertex="1">
-          <mxGeometry x="426" y="574" width="394" height="198" as="geometry" />
+          <mxGeometry x="425" y="571" width="394" height="198" as="geometry" />
         </mxCell>
         <mxCell id="Hb9tNGbJlWjlJBzZQUSd-3" value="" style="verticalLabelPosition=bottom;shadow=1;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" vertex="1" parent="1">
           <mxGeometry x="44" y="371" width="73" height="49" as="geometry" />
