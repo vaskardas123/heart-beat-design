@@ -1,32 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Audit Log Dashboard Components" id="t2dd81MidffATKvto3Pq">
-    <mxGraphModel dx="947" dy="479" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Aea7daFOpwfqS7LJveI--1" value="Total Requests Logged" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="140" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Aea7daFOpwfqS7LJveI--3" value="Unique Users Active" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="140" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Aea7daFOpwfqS7LJveI--4" value="Average Execution Time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="140" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Aea7daFOpwfqS7LJveI--5" value="Failed Requests (%)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="140" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Aea7daFOpwfqS7LJveI--8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Audit Log Dashboard&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Aea7daFOpwfqS7LJveI--8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Audit Log Dashboard&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;gradientColor=#ea6b66;shadow=1;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="270" y="20" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Aea7daFOpwfqS7LJveI--11" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Line Chart&lt;br&gt;&lt;/font&gt;&lt;/b&gt;requests per minute/hour/day&lt;br&gt;Add filters for &lt;code data-end=&quot;1734&quot; data-start=&quot;1722&quot;&gt;HttpMethod&lt;/code&gt;, &lt;code data-end=&quot;1752&quot; data-start=&quot;1736&quot;&gt;HttpStatusCode&lt;/code&gt;." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="35" y="250" width="255" height="88" as="geometry" />
+        <mxCell id="Aea7daFOpwfqS7LJveI--11" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;Requests per minute/hour/day&lt;br&gt;Add filters for &lt;code data-end=&quot;1734&quot; data-start=&quot;1722&quot;&gt;HttpMethod&lt;/code&gt;, &lt;code data-end=&quot;1752&quot; data-start=&quot;1736&quot;&gt;HttpStatusCode&lt;/code&gt;.&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="24" y="356" width="379" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="Aea7daFOpwfqS7LJveI--12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Donut/pie chart&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Requests by HTTP Status Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="303" y="250" width="224" height="88" as="geometry" />
+        <mxCell id="Aea7daFOpwfqS7LJveI--12" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Requests by HTTP Status Code&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="21" y="570" width="385" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="Aea7daFOpwfqS7LJveI--13" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Line Chart&lt;br&gt;&lt;/font&gt;&lt;/b&gt;Exception Trend&lt;br&gt;Line or stacked area showing count of failed logs over time." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="546" y="250" width="266" height="88" as="geometry" />
+        <mxCell id="Aea7daFOpwfqS7LJveI--13" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;Exception Trend&lt;br&gt;Line or stacked area showing count of failed logs over time.&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="413" y="356" width="394" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-3" value="" style="verticalLabelPosition=bottom;shadow=1;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="37" y="371" width="107" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-5" value="" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="43" y="583" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-6" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;&lt;br&gt;Error Type Breakdown |&amp;nbsp;Pie chart showing exception categories&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="570" width="389" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-7" value="" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="583" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-4" value="" style="verticalLabelPosition=bottom;shadow=1;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="432" y="368" width="107" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-9" value="Average Execution&lt;br&gt;Time&lt;br&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 102, 204); font-size: 25px;&quot;&gt;253&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=light-dark(#f2f2f2, #ededed);gradientDirection=north;glass=0;shadow=1;fontSize=15;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="143" width="179" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;" vertex="1" parent="1">
+          <mxGeometry x="50" y="152" width="27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-11" value="Active Unique&lt;br&gt;Users&lt;br&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 102, 204); font-size: 25px;&quot;&gt;23&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=light-dark(#f2f2f2, #ededed);gradientDirection=north;glass=0;shadow=1;fontSize=15;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="619" y="140" width="179" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" vertex="1" parent="1">
+          <mxGeometry x="632" y="151" width="32" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-14" value="Total Requests&lt;br&gt;Logged&lt;br&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 102, 204); font-size: 25px;&quot;&gt;6456&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=light-dark(#f2f2f2, #ededed);gradientDirection=north;glass=0;shadow=1;fontSize=15;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="143" width="179" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.remote_move_request;fontColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="242" y="153" width="39" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-19" value="&lt;br&gt;Failed Requests&lt;br&gt;(%)&lt;br&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 102, 204); font-size: 25px;&quot;&gt;68&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=light-dark(#f2f2f2, #ededed);gradientDirection=north;glass=0;shadow=1;fontSize=15;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="141" width="179" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-18" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.failed;" vertex="1" parent="1">
+          <mxGeometry x="433" y="150" width="36" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
