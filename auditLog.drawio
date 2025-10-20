@@ -258,6 +258,12 @@
         <mxCell id="Uy1qEyqynV1C6eJLJxLA-10" value="" style="verticalLabelPosition=bottom;shadow=1;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" vertex="1" parent="1">
           <mxGeometry x="438" y="529" width="73" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="7fYJ5BK99MBhRFZZLOWK-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Login Success Vs Failure Trend&lt;br&gt;&lt;/b&gt;Security or usability issues (spikes in failed logins)&lt;b&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;shadow=1;gradientColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="26" y="750" width="789" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="7fYJ5BK99MBhRFZZLOWK-2" value="" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="763" width="70" height="58" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
