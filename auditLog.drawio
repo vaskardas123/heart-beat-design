@@ -71,28 +71,28 @@
           <mxGeometry x="447" y="902.5" width="58.5" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="Hb9tNGbJlWjlJBzZQUSd-35" value="&lt;font style=&quot;font-size: 20px; color: rgb(51, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Entity name&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2" y="1122" width="138" height="52" as="geometry" />
+          <mxGeometry x="27" y="1121" width="138" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Hb9tNGbJlWjlJBzZQUSd-36" value="&lt;font style=&quot;font-size: 20px; color: rgb(51, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Change Type&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="144" y="1123" width="144" height="52" as="geometry" />
+          <mxGeometry x="169" y="1122" width="144" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Hb9tNGbJlWjlJBzZQUSd-37" value="&lt;font style=&quot;font-size: 20px; color: rgb(51, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;User&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="292" y="1124" width="126" height="52" as="geometry" />
+          <mxGeometry x="317" y="1123" width="105" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Hb9tNGbJlWjlJBzZQUSd-38" value="&lt;font style=&quot;font-size: 20px; color: rgb(51, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Time&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="423" y="1124" width="127" height="52" as="geometry" />
+          <mxGeometry x="426" y="1123" width="94" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Hb9tNGbJlWjlJBzZQUSd-39" value="&lt;font style=&quot;font-size: 20px; color: rgb(51, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;Old Prop. Value&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="554" y="1124" width="143" height="52" as="geometry" />
+          <mxGeometry x="525" y="1123" width="143" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Hb9tNGbJlWjlJBzZQUSd-40" value="&lt;font style=&quot;font-size: 20px; color: rgb(51, 51, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;New Prop. Value&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="702" y="1124" width="143" height="52" as="geometry" />
+          <mxGeometry x="672" y="1123" width="143" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Hb9tNGbJlWjlJBzZQUSd-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#FFF2CC;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="6" y="1183" width="838" height="50" as="geometry" />
+          <mxGeometry x="26" y="1182" width="790" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#FFF2CC;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="7" y="1240" width="838" height="50" as="geometry" />
+        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#FFF2CC;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="27" y="1239" width="790" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
