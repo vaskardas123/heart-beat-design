@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7" pages="2">
   <diagram name="Audit Log Dashboard Components" id="t2dd81MidffATKvto3Pq">
-    <mxGraphModel dx="2605" dy="1318" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,11 +166,8 @@
         <mxCell id="Hb9tNGbJlWjlJBzZQUSd-95" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#A680B8;glass=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="37.25" y="1947" width="788.75" height="227" as="geometry" />
         </mxCell>
-        <mxCell id="Hb9tNGbJlWjlJBzZQUSd-94" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.map;" vertex="1" parent="1">
-          <mxGeometry x="45" y="1955" width="81" height="61" as="geometry" />
-        </mxCell>
         <mxCell id="Hb9tNGbJlWjlJBzZQUSd-96" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/WHCompare_Isometric_Web_Hosting___Servers-2190/connected-globe-603.svg" vertex="1" parent="1">
-          <mxGeometry x="24" y="1929" width="73" height="73" as="geometry" />
+          <mxGeometry x="9" y="1925" width="108" height="108" as="geometry" />
         </mxCell>
         <mxCell id="Hb9tNGbJlWjlJBzZQUSd-99" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Location.svg;" vertex="1" parent="1">
           <mxGeometry x="218" y="2021" width="33.24" height="59" as="geometry" />
