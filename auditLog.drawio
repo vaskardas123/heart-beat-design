@@ -203,12 +203,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FTQfotY6-JqzFOz6IiXC" name="Session Log Dashboard">
-    <mxGraphModel dx="1303" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1389" dy="703" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YGGiWuXfOsDT7Zcj4hT9-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Session Log Dashboard&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;gradientColor=#FFD966;shadow=1;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="269" y="19" width="290" height="60" as="geometry" />
+          <mxGeometry x="269" y="19" width="369" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YGGiWuXfOsDT7Zcj4hT9-2" value="Total User Sessions&lt;br&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 102, 204); font-size: 25px;&quot;&gt;253&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=light-dark(#f2f2f2, #ededed);gradientDirection=north;glass=0;shadow=1;fontSize=15;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="38" y="142" width="179" height="158" as="geometry" />
@@ -263,6 +263,9 @@
         </mxCell>
         <mxCell id="7fYJ5BK99MBhRFZZLOWK-2" value="" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="763" width="70" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="7fYJ5BK99MBhRFZZLOWK-3" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.session_recording_service;" vertex="1" parent="1">
+          <mxGeometry x="275" y="31.620000000000005" width="50" height="34.765" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
