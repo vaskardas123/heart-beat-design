@@ -310,7 +310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zdTbwurmPyMlR-m_TE0n" name="System Log Dashboard">
-    <mxGraphModel dx="1097" dy="555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="992" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -447,7 +447,7 @@
           <mxGeometry x="50" y="1965" width="790" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s7fSqj9I0GINHUMYEg6j-20" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Unresolved Issues Count&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;shadow=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="2133" width="481" height="35" as="geometry" />
+          <mxGeometry x="49" y="2140" width="786" height="35" as="geometry" />
         </mxCell>
         <mxCell id="s7fSqj9I0GINHUMYEg6j-21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Error Tracking &amp;amp; Incident Analytics&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;labelBackgroundColor=none;shadow=1;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="49" y="2050" width="789" height="55" as="geometry" />
@@ -487,6 +487,21 @@
         </mxCell>
         <mxCell id="s7fSqj9I0GINHUMYEg6j-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#FFF2CC;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="50" y="2378" width="773" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s7fSqj9I0GINHUMYEg6j-38" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Top 10 Slowest Requests&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1730" width="777" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="s7fSqj9I0GINHUMYEg6j-39" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;&quot; data-end=&quot;2063&quot; data-start=&quot;2051&quot;&gt;&lt;span style=&quot;font-weight: bold; font-size: 19px;&quot;&gt;Top Error Sources&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Fields: &lt;/b&gt;EventSource, EventSeverity&lt;br&gt;&lt;strong data-end=&quot;4284&quot; data-start=&quot;4272&quot;&gt;Insight:&lt;/strong&gt; Which subsystem (Database, API Gateway, Scheduler, etc.) causes most errors.&lt;/font&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;shadow=1;gradientColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="34" y="2451" width="394" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="s7fSqj9I0GINHUMYEg6j-40" value="" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2460" width="50" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="s7fSqj9I0GINHUMYEg6j-41" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;&quot; data-end=&quot;2063&quot; data-start=&quot;2051&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Error Severity vs Frequency&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;strong style=&quot;&quot; data-end=&quot;4450&quot; data-start=&quot;4439&quot;&gt;Fields:&lt;/strong&gt; &lt;code style=&quot;&quot; data-end=&quot;4466&quot; data-start=&quot;4451&quot;&gt;EventSeverity&lt;/code&gt;, &lt;code style=&quot;&quot; data-end=&quot;4483&quot; data-start=&quot;4468&quot;&gt;EventCategory&lt;/code&gt;, &lt;code style=&quot;&quot; data-end=&quot;4492&quot; data-start=&quot;4485&quot;&gt;Count&lt;/code&gt;&lt;br&gt;&lt;strong style=&quot;&quot; data-end=&quot;4509&quot; data-start=&quot;4497&quot;&gt;Insight:&lt;/strong&gt; Visualize how often &lt;br&gt;high-severity issues appear.&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#82b366;labelBackgroundColor=none;shadow=1;gradientColor=#7F00FF;gradientDirection=south;" vertex="1" parent="1">
+          <mxGeometry x="434" y="2450" width="398" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="s7fSqj9I0GINHUMYEg6j-43" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.bubbleChart;strokeColor=none;strokeColor2=none;strokeColor3=#666666;fillColor2=#008cff;fillColor3=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="449" y="2464.5" width="44" height="39.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
